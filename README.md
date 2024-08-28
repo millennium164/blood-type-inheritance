@@ -1,2 +1,3 @@
 # blood-type-inheritance
-CS50: Harvard's introduction to computer science - problem set 5. Simulates genetic inheritance of blood type, originating from random aleles (randomizing A, B or O gene).
+From random parents aleles, each subsequent generation is randomized.
+The family tree is created using nodes (according to the specified number of generations), and their aleles are randomized considering parents genes.
